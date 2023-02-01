@@ -20,7 +20,7 @@ TODO
 * [Know Your Indexer #6 | Sun Tzu](https://forum.thegraph.com/t/know-your-indexer-6-sun-tzu/1808)
 * ***[Know Your Indexer #7 | Ryabina](https://forum.thegraph.com/t/know-your-indexer-7-ryabina/1831)***
 * [Know Your Indexer #8 | Chainflow](https://forum.thegraph.com/t/know-your-indexer-8-chainflow/1879)
-* [Know Your Indexer #9 | Chainode Tech](https://forum.thegraph.com/t/know-your-indexer-9-chainode-tech/1925)
+* ***[Know Your Indexer #9 | Chainode Tech](https://forum.thegraph.com/t/know-your-indexer-9-chainode-tech/1925)***
 * [Know Your Indexer #10 | Dan - Blocksteady.xyz](https://forum.thegraph.com/t/know-your-indexer-10-dan-blocksteady-xyz/1985)
 * [Know Your Indexer #11 | 01node.com](https://forum.thegraph.com/t/know-your-indexer-11-01node-com/2012)
 * [Know Your Indexer #12 | Nuviba](https://forum.thegraph.com/t/know-your-indexer-12-nuviba/2050)
