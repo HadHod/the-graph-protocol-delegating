@@ -12,13 +12,13 @@ TODO
 
 ### Indexers to analyse
 
-* [Know Your Indexer #1 | Payne from StakeSquid](https://forum.thegraph.com/t/know-your-indexer-1-payne-from-stakesquid/1302)
+* ***[Know Your Indexer #1 | Payne from StakeSquid](https://forum.thegraph.com/t/know-your-indexer-1-payne-from-stakesquid/1302)***
 * [Know Your Indexer #2 | Stake-Machine](https://forum.thegraph.com/t/know-your-indexer-2-stake-machine/1463)
 * [Know Your Indexer #3 | Cyfera - BitNordic.com](https://forum.thegraph.com/t/know-your-indexer-3-cyfera-bitnordic-com/1578)
 * [Know Your Indexer #4 | P-OPS team](https://forum.thegraph.com/t/know-your-indexer-4-p-ops-team/1667)
 * [Know Your Indexer #5 | Mind Heart Soul](https://forum.thegraph.com/t/know-your-indexer-5-mind-heart-soul/1718)
 * [Know Your Indexer #6 | Sun Tzu](https://forum.thegraph.com/t/know-your-indexer-6-sun-tzu/1808)
-* [Know Your Indexer #7 | Ryabina](https://forum.thegraph.com/t/know-your-indexer-7-ryabina/1831)
+* ***[Know Your Indexer #7 | Ryabina](https://forum.thegraph.com/t/know-your-indexer-7-ryabina/1831)***
 * [Know Your Indexer #8 | Chainflow](https://forum.thegraph.com/t/know-your-indexer-8-chainflow/1879)
 * [Know Your Indexer #9 | Chainode Tech](https://forum.thegraph.com/t/know-your-indexer-9-chainode-tech/1925)
 * [Know Your Indexer #10 | Dan - Blocksteady.xyz](https://forum.thegraph.com/t/know-your-indexer-10-dan-blocksteady-xyz/1985)
@@ -29,10 +29,10 @@ TODO
 * [Know Your Indexer #15 | Stake2earn](https://forum.thegraph.com/t/know-your-indexer-15-stake2earn/2219)
 * [Know Your Indexer #16 | Citadel.One](https://forum.thegraph.com/t/know-your-indexer-16-citadel-one/2326)
 * [Know Your Indexer #17 | Index Africa](https://forum.thegraph.com/t/know-your-indexer-17-index-africa/2433)
-* [Know Your Indexer #18 | Protofire](https://forum.thegraph.com/t/know-your-indexer-18-protofire/2484)
+* ***[Know Your Indexer #18 | Protofire](https://forum.thegraph.com/t/know-your-indexer-18-protofire/2484)***
 * [Know Your Indexer #19 | Grassets.tech](https://forum.thegraph.com/t/know-your-indexer-19-grassets-tech/2554)
 * [Know Your Indexer #20 | Maple Nodes](https://forum.thegraph.com/t/know-your-indexer-20-maple-nodes/2692)
-* [Know Your Indexer #21 | Nodeify.eth](https://forum.thegraph.com/t/know-your-indexer-21-nodeify-eth/3345)
+* ***[Know Your Indexer #21 | Nodeify.eth](https://forum.thegraph.com/t/know-your-indexer-21-nodeify-eth/3345)***
 * ***[Know Your Indexer #22 | DataNexus](https://forum.thegraph.com/t/know-your-indexer-22-datanexus/3664)***
 * [Know Your Indexer #23 | Dapplooker.eth](https://forum.thegraph.com/t/know-your-indexer-23-dapplooker-eth/3694)
 
