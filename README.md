@@ -8,7 +8,7 @@ TODO
 
 ### How to analyse indexer
 
-TODO
+https://twitter.com/_cryptovestor/status/1622389483541864449
 
 ### Indexers to analyse
 
